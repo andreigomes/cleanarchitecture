@@ -1,0 +1,6 @@
+Clean architeture
+
+
+infraestrutura > aplicação > dominio (o domínio é a parte de dentro)
+
+o conceito de modelar pensando na camada de dominio é chamado Domain Driven Design.
